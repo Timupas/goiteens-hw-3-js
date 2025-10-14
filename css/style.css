@@ -1,0 +1,14 @@
+/* Додайте CSS стилі, які забезпечують мінімальну висоту тегів img та фоновий колір для видимих зображень, які ще не завантажені.  */
+
+* {
+margin: 0;
+padding: 0;
+}
+
+.section {
+    background-color: rgb(56, 110, 154);
+    padding: 150px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
